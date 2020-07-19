@@ -25,8 +25,8 @@
 char mqtt_server[40]  = "192.168.178.21";
 char mqtt_port[6]     = "1883";
 
-const char* ssid =        "yourSSID";
-const char* password =    "youPassword";
+const char* ssid =        "yourSSID";     //please change
+const char* password =    "youPassword";  //please change
 
 
 //Project name
